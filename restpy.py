@@ -13,7 +13,7 @@ class RestaurantSystem:
 
         #бдюда
         self.menu = [
-            {"id": 1, "name": "Пельмени", "price": 10.0, "weight": "300 г", "desc": "пельмешки вкусные", "stop": False},
+            {"id": 1, "name": "Роллы", "price": 10.0, "weight": "300 г", "desc": "пельмешки вкусные", "stop": False},
             {"id": 2, "name": "Паста Карбонара", "price": 15.0, "weight": "280 г", "desc": "Спагетти, бекон, пармезан, желток, сливки", "stop": False},
             {"id": 3, "name": "Салат Цезарь с курицей", "price": 40.0, "weight": "250 г", "desc": "Куриное филе, романо, черри, соус Цезарь", "stop": False},
             {"id": 4, "name": "Дошик с курицей", "price": 1.0, "weight": "400 мл", "desc": "дошик + курица", "stop": True},
